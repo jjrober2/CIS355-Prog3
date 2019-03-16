@@ -293,6 +293,11 @@ class Customer {
             </head>
             <body>
                 <a href='https://github.com/jjrober2/CIS355-Prog3' target='_blank'>Github</a><br />
+                <a href='http://csis.svsu.edu/~jjrober2/cis355/prog03/prog3UserFlow.html' target='_blank'>Prog3 User Flow</a><br />
+                <a href='http://csis.svsu.edu/~jjrober2/cis355/prog03/classDiagramProg3.PNG' target='_blank'>Class Diagram prog 3</a><br />
+                <a href='http://csis.svsu.edu/~jjrober2/cis355/prog03/ScreenFlowDiagram.PNG' target='_blank'>Prog2 Screen Flow</a><br />
+                <a href='http://csis.svsu.edu/~jjrober2/cis355/prog03/ClassDiagramProg2.PNG' target='_blank'>Class Diagram prog 2</a><br />
+
                 <div class='container'>
                     <p class='row'>
                         <h3>$this->title" . "s" . "</h3>
